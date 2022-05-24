@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm hamza abdous</h1>
 <h3 align="center">A passionate Junior full-stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on [code generator](https://jscodegenerator.netlify.app)
+- 🔭 I work on [code generator](https://jscodegenerator.netlify.app)
+
+- 📫 How to reach me **abdoushamza6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
