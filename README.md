@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Abdous Junior full-stack developer from Morocco</h1>
 
-<h3 align="center">Passionate about web and mobile development, and after a year of experience within an agile dev team, I was able to welcome skills in react and react native, which motivates me to seek other challenges to provide good user experience.</h3>
+<h3 align="center">Passionate about web and mobile development, and after a year of experience within an agile dev team,</br> I was able to welcome skills in react and react native,</br> which motivates me to seek other challenges to provide good user experience.</h3>
 
 - 🔭 I work on [code generator](https://jscodegenerator.netlify.app)
 
