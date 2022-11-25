@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello 👋, My name is Hamza Abdous I am a junior full-stack developer from Morocco.
+<h3 align="center">Hello 👋, My name is Hamza Abdous I am a full-stack developer from Morocco.
 Passionate about web and mobile development, and after 3 years of experience in an agile dev team,
 during my experience, I have acquired many skills like React and React-native,
 This motivates me to look for more challenges to deliver a great user experience.</h3>
