@@ -210,6 +210,8 @@
             <span><em>Hamza Abdous</em></span>
           </a>
         </h1>
+
+        
         <section class='items'>
           <ul>
             <li>Hello  <div class="hi">👋</div>,</li>
@@ -218,10 +220,16 @@
             <li> I am a full-stack developer from Morocco.</li>
           </ul>
           <ul>
-            <li>Passionate about web and mobile development,</li>
+            <li>Fervently passionate about web and mobile development,</li>
           </ul>
           <ul>
-            <li> and after 3 years of experien</li>
+            <li>and after a year of experience in an agile development team,</li>
+          </ul>
+          <ul>
+            <li>I was able to acquire proficiency in React, React Native, Vue.js, and Flutter</li>
+          </ul>
+          <ul>
+            <li>which motivates me to seek new challenges to provide a great user experience</li>
           </ul>
           <ul>
             <li><a href="mailto:abdoushamza6@gmail.com" role="button"><span class='hi'>👋</span></a></li>
